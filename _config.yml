@@ -1,11 +1,11 @@
 # Site settings
 author: Calvin McDowell
-title: 
+title: Starting my Software Engineer Journey!
 header-img: img/home-bg.png
 email: calvinmac40@hotmail.com
 copyright_name: Calvin McDowell
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Where it all started
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: calvinmac40
 github_username:  calvinmac40
