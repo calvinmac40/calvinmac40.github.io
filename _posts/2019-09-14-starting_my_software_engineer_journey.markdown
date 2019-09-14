@@ -1,0 +1,9 @@
+---
+layout: post
+title:      "Starting My Software Engineer Journey"
+date:       2019-09-14 20:02:59 +0000
+permalink:  starting_my_software_engineer_journey
+---
+
+
+I was first introduced to coding after scrolling on Instagram and came across an advertisement for an app named "Career Karma". The advertisement asked if I wanted to learn how to design websites and create apps. I was kind of interested in what they had to say so I downloaded the app and started the "21 Day Career Karma challenge". I found out I was interested in coding. After I did a little research on what exactly coding was I found out that I was as really interested and wanted to learn more about it and the fact that I could actually make a good living doing it I was hooked. After Highschool I went to the military served on active duty for a few. When I finished my tour of duty I came home and reintroduced to civilian life found a job in the armed security field. That was cool when I was young because it was an easy job to get and it paid well for what I needed at the time because I had no children and was moving from state to state. After geting a second fulltime job, getting married, having kids, buying a house. I knew i didn't want to work this hard or spend this much time away from my family. I started to feel like I should be doing more for myself and being a better example for my kids I needed to do something else, something I could be proud of. I was nervous about getting into something that was new to me that just seemded so difficult to me. After applying to Flatiron I scheduled an interview with a woman named Ishianose Omofoma. after speaking with her for a few and her answering a few of my questions I was put at ease. I felt better after actually speaking with a person face to face sort of. She sent me a link for the financial part I went through it, filled it out, and here I am today enrolled in bootcamp.
